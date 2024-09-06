@@ -14,7 +14,7 @@ labels:
 I have never used Typescript or Javascript before but after going through a tutorial and coding simple programs, it has similar implementations that I am familiar with in other languages that I know. One aspect of Typescript that caught my attention immediately was the use of explicitly writing the types for variables. 
 
 <div class="text-center p-4">
-  </img/Picture1.png">
+  /img/Picture1.png"
 </div>
 
 This caught my attention because of the ability of preventing potential error and also finding problems quickly later in a code. I also like the ability to shorten functions with the use of arrow functions. 
