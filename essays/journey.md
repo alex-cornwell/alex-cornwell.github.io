@@ -13,9 +13,16 @@ labels:
 
 I have never used Typescript or Javascript before but after going through a tutorial and coding simple programs, it has similar implementations that I am familiar with in other languages that I know. One aspect of Typescript that caught my attention immediately was the use of explicitly writing the types for variables. 
 
-<img width="100px" class="rounded float-start pe-4" src="../img/Picture1.png">
+<p align="center">
+  <img src="../img/Picture1.png">
+</p>
 
 This caught my attention because of the ability of preventing potential error and also finding problems quickly later in a code. I also like the ability to shorten functions with the use of arrow functions. 
+
+<p align="center">
+  <img src="../img/Picture2.png">
+  <img src="../img/Picture3.png">
+</p>
 
 ## Athletic Software Engineering (ASE)
 
