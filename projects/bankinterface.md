@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/data-1-1.png
 title: "Bank Account Interface"
 date: 2023
 published: true
