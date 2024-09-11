@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/evenodd.jpeg
+image: img/evenodd.png
 title: "Even or Odd"
 date: 2023
 published: true
