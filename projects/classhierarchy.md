@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/images.jpeg
-title: "SClass Hierarchy"
+title: "Class Hierarchy"
 date: 2023
 published: true
 labels:
