@@ -10,6 +10,10 @@ labels:
 summary: "A simple interface program that lists all numbers up to a maximum as either even or odd. this was made during my ICS-212 class."
 ---
 
+<div class="text-center p-4">
+  <img width="200px" src="../img/evenodd.jpg" class="img-thumbnail" >
+</div>
+
 This is a simple interface program that asks the user to input the maximum numbers to check and prints every integer as either even or odd. There is also checks to make sure the user inputs a positive integer greater than 0.
 
 Here is part of the code that asks for user input:
