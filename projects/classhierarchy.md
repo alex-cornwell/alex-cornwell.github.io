@@ -10,6 +10,10 @@ labels:
 summary: "A simple program that uses class hierarchy."
 ---
 
+<div class="text-center p-4">
+  <img width="200px" src="../img/pokemon.jpg" class="img-thumbnail" >
+</div>
+
 This was a simple project that I made to when learning class hierarchy. The pokedex program works by taking 3 classes containing "Pokemon" and assigning them nicknames. The pokedex will then relaying the information of each pokemon to the user.  
 
 Here is part of the main code that makes new instances for the pokemon and assigns nicknames:
