@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Blueprint of Software"
 # All dates must be YYYY-MM-DD format!
-date: 2024-10-9
+date: 2024-12-5
 published: true
 labels:
   - Design Patterns
