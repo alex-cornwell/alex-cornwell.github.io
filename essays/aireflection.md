@@ -13,7 +13,7 @@ labels:
 
 ### Introduction
 
-Artificial Intelligence (AI) has become a key part of education, especially in fields like Software Engineering where problem-solving, coding, and conceptual understanding are important. AI tools like ChatGPT, Bard, and GitHub Copilot provide support for students by offering explanations, code examples, debugging help, and more. In ICS 314, I used AI tools to aid help me overcome challenges with homework and tasks. This essay will reflect on my experiences using AI, discussing its usefulness, limitations, and its impact on my understanding of the course.
+Artificial Intelligence has become a key part of education, especially in fields like Software Engineering where problem-solving, coding, and conceptual understanding are important. AI tools like ChatGPT, Bard, and GitHub Copilot provide support for students by offering explanations, code examples, debugging help, and more. In ICS 314, I used AI tools to aid help me overcome challenges with homework and tasks. This essay will reflect on my experiences using AI, discussing its usefulness, limitations, and its impact on my understanding of the course.
 
 ### Personal Experience with AI
 
