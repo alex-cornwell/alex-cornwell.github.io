@@ -28,29 +28,13 @@ concurrency:
 
 jobs:
   # Build job
-  setup-ruby:
-    runs-on: ubuntu-24.04
+  build:
+    runs-on: ubuntu-latest
     steps:
-      - name: Install ruby-build
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y git build-essential libssl-dev libreadline-dev zlib1g-dev
-          git clone https://github.com/rbenv/ruby-build.git ~/.ruby-build
-          sudo ~/.ruby-build/install.sh
-      - name: Install Ruby 3.1.4
-        run: |
-          if [ ! -f "/opt/hostedtoolcache/Ruby/3.1.4/x64.complete" ]; then
-            sudo mkdir -p /opt/hostedtoolcache/Ruby/3.1.4/x64
-            sudo ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
-            sudo touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
-          fi
-      - name: Verify Ruby
-        run: |
-          /opt/hostedtoolcache/Ruby/3.1.4/x64/bin/ruby --version
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
-        uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
+        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         with:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
