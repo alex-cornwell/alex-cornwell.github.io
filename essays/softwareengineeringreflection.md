@@ -11,6 +11,8 @@ labels:
   - User Interface Frameworks
 ---
 
+<img width="500px" src="https://artoftesting.com/wp-content/uploads/2020/01/software-engineering-featured.jpg">
+
 Throughout this course, I learned valuable skills in software engineering that go beyond just web application development. While building web applications was a big focus at the beginning of the course, the skills and concepts I learned can be applied to many areas of software development and even other fields. The concepts that stood out the most to me were Configuration Management, Agile Project Management, and User Interface Frameworks. These topics provided a deeper understanding of how to approach software development effectively to me.
 
 ### Configuration Management
