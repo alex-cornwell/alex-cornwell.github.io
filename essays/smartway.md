@@ -9,6 +9,8 @@ labels:
   - Stackoverflow
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/question.jpg">
+
 The essay "How To Ask Questions The Smart Way" by Eric S. Raymond provides valuable guidelines for making inquiries that are not only able to produce useful responses but also make a more productive and respectful interaction with the open-source community. Understanding what makes a question "smart" versus "not smart" is crucial for software engineers, as it can affect both their personal growth and the efficiency for projects.
 
 Smart questions are fundamental for several reasons. A well formulated question can reduce the time spent searching for answers. By clearly defining the problem and providing context, a smart question helps others understand exactly what information is needed, leading to quick and accurate responses. Asking smart questions help individuals learn more effectively. By framing questions in a way that demonstrates a genuine effort to understand and solve a problem, individuals can gain deeper insights and improve their problem solving skills.
