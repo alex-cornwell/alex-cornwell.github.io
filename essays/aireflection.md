@@ -9,6 +9,8 @@ labels:
   - AI
 ---
 
+<img width="500px" class="rounded float-start pe-4" src="../img/ai.png">
+
 <h1 style="text-align:center;">The Role of AI in Enhancing Learning: A Reflection</h1>
 
 ### Introduction
