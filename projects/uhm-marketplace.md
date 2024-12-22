@@ -12,36 +12,11 @@ summary: "An application made by my team as a final project for ICS-314."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/bank.jpg" class="img-thumbnail" >
+  <img src="../img/signup.png" class="img-thumbnail" >
 </div>
 
-This was a project that allowed the user to interact with a Bank Management Interface. The user is able to create any number of accounts that stores the customers name, account number, and address into the database to be accessed at a later time. The user is also able to delete a certain record, find a certain record, or view all records currently stored in the database. The program also has a debugging mode to monitor functions being called.
+This was an application made by my team and I as a final project for our class ICS-314. It serves as a "marketplace" similar to Amazon and Ebay but strictly for students and staff of the UH community. I worked on connecting pages to the database. My role was to make sure the data could be stored and retrieved properly and to make the review page look clean and user-friendly.
+I learned how to set up and manage database connections and how to organize the data for better performance. I also gained experience in designing web pages that work well with databases.
 
-Here is part of the code that allows the user to print all records stored in the database:
-
-```
-void printAllRecords(struct record *start)
-{
-    struct record *current;
-    current = start;
-
-    if(debugmode == 1)
-    {
-        printf("\nFunction printAllRecords was called.\n");
-        printf("start = %p\n", (void *)start);
-    }
- 
-    if(current == NULL)
-        printf("\nNo stored records\n\n");
-    else
-    {
-        while(current != NULL)
-        {
-            printf("\nAccount #: %d\n", current->accountno);
-            printf("Name: %s\n", current->name);
-            printf("Address:\n%s\n", current->address);
-            current = current->next;
-        }
-    }
-}
+Here is a link to our [GitHub Organization]("https://uhm-marketplace.github.io/")
 ```
