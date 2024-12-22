@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: img/data-1-1.png
-title: "Bank Account Interface"
-date: 2023
+image: img/logo.png
+title: "UHM Marketplace"
+date: 2024
 published: true
 labels:
-  - C
-summary: "A Bank User-Interface program to manage accounts created by the user that was made during my ICS-212 class."
+  - Github
+  - Software Engineering
+summary: "An application made by my team as a final project for ICS-314."
 ---
 
 <div class="text-center p-4">
