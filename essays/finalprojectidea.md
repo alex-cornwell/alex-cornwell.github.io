@@ -8,6 +8,9 @@ published: true
 labels:
   - Final Project Proposal
 ---
+
+<img width="500px" class="rounded float-start pe-4" src="../img/events.jpg.png">
+
 # Event Management System for Campus Clubs
 
 ### Overview
