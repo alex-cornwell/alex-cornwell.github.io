@@ -19,4 +19,3 @@ This was an application made by my team and I as a final project for our class I
 I learned how to set up and manage database connections and how to organize the data for better performance. I also gained experience in designing web pages that work well with databases.
 
 Here is a link to our [GitHub Organization]("https://uhm-marketplace.github.io/")
-```
