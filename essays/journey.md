@@ -4,7 +4,7 @@ type: essay
 title: "My First Journey Into TypeScript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-03
-published: true
+published: false
 labels:
   - Software Engineering
   - Typescript
