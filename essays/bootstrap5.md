@@ -8,6 +8,9 @@ published: true
 labels:
   - Bootstrap 5
 ---
+
+<img width="500px" class="rounded float-start pe-4" src="../img/ui.png">
+
 # The Power of UI Frameworks: Why Use Bootstrap 5?
 
 UI frameworks, such as Bootstrap 5, come with their own complexities, but they offer undeniable benefits that justify the initial learning curve. If that is the case, why would someone bother with frameworks at all when you can simply use raw HTML and CSS?
