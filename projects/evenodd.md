@@ -4,7 +4,7 @@ type: project
 image: img/evenodd.png
 title: "Even or Odd"
 date: 2023
-published: true
+published: false
 labels:
   - C++
 summary: "A simple interface program that lists all numbers up to a maximum as either even or odd. this was made during my ICS-212 class."
