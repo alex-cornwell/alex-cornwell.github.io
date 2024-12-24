@@ -10,40 +10,34 @@ labels:
   - Effort Estimation
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/ai.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/estimate.png">
 
-<h1 style="text-align:center;">The Role of AI in Enhancing Learning: A Reflection</h1>
+### How Did I Make My Effort Estimates?
 
-### Introduction
+For the MnM project, my effort estimates were based on the complexity of database operations required for the review page and prior experience working with database integration. I began by breaking the tasks into smaller components like designing the database schema, setting up connections, and testing.
 
-Artificial Intelligence has become a key part of education, especially in fields like Software Engineering where problem-solving, coding, and conceptual understanding are important. AI tools like ChatGPT, Bard, and GitHub Copilot provide support for students by offering explanations, code examples, debugging help, and more. In ICS 314, I used AI tools to aid help me overcome challenges with homework and tasks. This essay will reflect on my experiences using AI, discussing its usefulness, limitations, and its impact on my understanding of the course.
+For each component, I considered the time needed to write code, troubleshoot issues, and test functionality. Tasks involving unfamiliar database queries were given more time to account for learning and debugging.
 
-### Personal Experience with AI
+### Benefits of Effort Estimation
 
-_Writing Code_
+Effort estimation provided several key advantages:
 
-For simple tasks, I occasionally used ChatGPT to draft starter code. For example, “Write a JavaScript function to reverse an array.” However, I often rewrote the code to fit the specific requirements and ensure I fully understood it.
+1. Better Time Management: Breaking tasks into smaller tasks with time estimates helped me make steady progress and prevent last-minute rushes.
+2. Focused Prioritization: Estimating effort allowed me to prioritize important features like database security and data validation.
+3. Risk Awareness: Highlighting potentially time-consuming tasks early helped me prepare for challenges and minimizing delays.
 
-_Essays_
+### Benefits of Tracking Actual Effort
 
-For essays, I used AI sparingly to brainstorm ideas or rephrase sentences. For instance, I asked ChatGPT, “How can I introduce the concept of functional programming in an essay?” While it provided a clear explanation, I wrote the content myself to ensure it reflected my own understanding. AI helped me organize my thoughts more clearly.
+Tracking my actual effort proved valuable in several ways:
 
-_Final Project_
+1. Refining Future Estimates: Comparing estimated versus actual time revealed where I had underestimated the complexity of the task so I can improve my future projections.
+2. Identifying Bottlenecks: Tracking effort highlighted tasks that required excessive debugging time, prompting me to seek help.
+3. Accountability: Maintaining logs of my work created transparency and made it easier to report progress to the team.
+   
+### How Did I Track My Actual Effort?
 
-For the final project, I used AI tools to speed up the development and debugging process. For example, when I encountered ESLint errors, I asked ChatGPT how I can fix these ESLint issues. It provided quick solutions that saved me time. However, I also had to review the suggestions carefully because some answers made problems in other places.
-
-### Impact on Learning and Understanding
-
-Using AI tools has significantly influenced my learning. It has improved my problem-solving abilities by providing me with examples and explanations when I was stuck. However, it also challenged me to think critically about the solutions provided. While AI helped me learn concepts faster, I realized that I still needed to experiment and practice on my own to retain knowledge effectively.
-
-### Challenges and Opportunities
-
-One challenge I faced was that AI tools sometimes gave incorrect or overly generic answers. For example, while debugging, ChatGPT suggested changes that didn’t work because it didn’t fully understand the context of my code. However, the opportunity to use AI as a learning assistant remains valuable, especially for saving time and enhancing understanding.
-
-### Future Considerations
-
-In the future, I believe AI will play a larger role in software engineering education. Tools like ChatGPT and Copilot will become smarter, offering even more personalized learning experiences. However, students will need to strike a balance between using AI and building their own skills.
+I used a combination of manual logging and time-tracking tools to monitor effort. At the start of each session, I noted the task and estimated time. I tracked interruptions, debugging sessions, and progress checkpoints in a shared document.
 
 ### Conclusion
 
-Reflecting on my experiences with AI in ICS 314, I have found it to be both a helpful tool and a challenging resource. It has helped my understanding of software engineering concepts but has also highlighted the importance of practicing independently. Since I believe AI will become an improtant and widely used tool, I recommend that future courses integrate AI tools while encouraging students to critically analyze and learn from the outputs. By doing so, students can effectively develop both their technical and problem-solving skills.
+Participating in the UH Manoa project helped me understand the importance of effort estimation and tracking. Estimation helped structure my workflow, while tracking actual effort revealed areas for me to strengthen. It emphasized that careful preparation and consistent monitoring help manage development of tasks efficiently resulting in higher quality results.
